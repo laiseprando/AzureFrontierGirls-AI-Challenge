@@ -50,6 +50,24 @@ O agente é treinado para reconhecer quando uma requisição exige precisão mat
   - **2.4 Resposta:** Apresenta o resultado final *(aproximadamente 1885.14)*.<br/>
 <br/>
 
+# Passo-a-passo com prints
+- Criação do Agente:<br/>
+<img width="400" height="" alt="Agente" src="https://github.com/user-attachments/assets/18a0ebd5-7b17-4ff6-b7fd-265b4c0bc468" /><br/>
+<img width="400" height="" alt="Agente2" src="https://github.com/user-attachments/assets/7945ea0d-0aa7-45a7-820a-c023ab10d187" /> <br/><br/>
+
+- Fluxograma:<br/>
+<img width="400" height="" alt="Fluxograma" src="https://github.com/user-attachments/assets/8c352113-215c-4c13-9988-83d16f86cff7" /><br/><br/>
+
+
+
+- Playground de Agente: <br/>
+<img width="400" height="" alt="PlaygroundAgente" src="https://github.com/user-attachments/assets/b6a8d788-8fc9-433c-82b0-ce9171e4bf33" /><br/><br/>
+
+- Execução:<br/>
+<img width="600" height="" alt="Execução" src="https://github.com/user-attachments/assets/8c66e948-209b-4693-b02b-d380f372f761" />
+
+
+
 ---
 
 ### BIBLIOGRAFIA:
